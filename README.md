@@ -26,14 +26,14 @@ swagger-ui-layer 要依赖swagger的注解功能，因为swagger-ui-layer 仅仅
 
 首先需要在你的 `pom.xml` 中引入`swagger` 和 `swagger-ui-layer` 最新版的jar包
 
-swagger-ui-layer 最新版jar包地址：http://search.maven.org/#search%7Cga%7C1%7Cswagger-ui-layer
+swagger-ui-layer 最新版jar包地址：待上传 (可下载自己打包到远程仓库)
 
 
 ```xml
 <dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-swagger2</artifactId>
-    <version>2.2.2</version>
+    <version>2.7.0</version>
 </dependency>
 <dependency>
   <groupId>com.github.relin</groupId>
