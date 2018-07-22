@@ -87,7 +87,7 @@ ResponseHeader
 具体的注解用法可参阅互联网
 
 ##### 3、查看结果
-`swagger-ui-layer` 的默认访问地址是 `http://${host}:${port}/docs.html`
+`swagger-ui-layer` 的默认访问地址是 `http://${host}:${port}/api-docs.html`
 
 ### License
 Apache License 2.0
